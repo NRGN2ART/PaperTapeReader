@@ -19,3 +19,6 @@ This project was inspired by : https://www.youtube.com/watch?v=dq2EuooRrVc
 I obtained a similar Remex reader. It had a bad power supply which I had to bypass to get working.
 
 I chose to use an Arduino UNO R3 for interfacing as it is nativly 5V
+
+
+Andrew Seawright
